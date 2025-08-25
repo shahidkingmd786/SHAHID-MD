@@ -3,7 +3,7 @@
 </div> 
 <div align="center"> 
   <a href=""> 
-    <img src="https://files.catbox.moe/psvj7p.jpeg" alt="PATHAN-BOT" height="300"> 
+    <img src="https://t.me/+8ScPM6_F151hYjk0.jpeg" alt="PATHAN-BOT" height="300"> 
   </a> 
 </div>
 
