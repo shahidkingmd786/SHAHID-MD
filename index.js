@@ -258,20 +258,20 @@ async function startconn() {
 ┃⭔ Status:Online
 ┃⭔ OWNER:${owner}
 ┗❐═⭔════════⭔═❐
-╭─〔 *🤖 PATHAN BOT* 〕  
+╭─〔 *🤖 SHAHID KING-MD* 〕  
 ├─▸ *Ultra Super Fast Powerfull ⚠️*  
-│     *World Best BOT PATHAN-MD* 
+│     *World Best BOT SHAHID-MD* 
 ╰─➤ *Your Smart WhatsApp Bot is Ready To use 🍁!*  
 
-- *🖤 Thank You for Choosing PATHAN-MD!* 
+- *🖤 Thank You for Choosing shshid king!* 
 
 ╭──〔 🔗 *Information* 〕  
 ├─ 🧩 *Prefix:* = .
 ├─ 📢 *Join Channel:*  
-│    https://chat.whatsapp.com/JvIe71GfSU9IYDBO8YRsDu?mode=ac_t  
+│    https://whatsapp.com/channel/0029Vb6GQ0sH5JM5NiaEaS22  
 ├─ 🌟 *GitHub:*  
-│    https://github.com/Shafiullah90/Shafi-king-bot  
-╰─🚀 *Powered by ShafiTechX*        
+│ 
+╰─🚀 *Powered by ShahidTechX*        
 `,
                 contextInfo: {
                     forwardingScore: 1,
